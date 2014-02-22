@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Questions>
+  <Question ID="1">
+    <Ques>Số nào sẽ là số tiếp theo của chuỗi số sau?
+0, 1, 2, 4, 6, 9, 12, 16, ?</Ques>
+    <Ans1>16</Ans1>
+    <Ans2>18</Ans2>
+    <Ans3>20</Ans3>
+    <Ans4>22</Ans4>
+    <Answer>20</Answer>
+  </Question>
+  <Question ID="2">
+      <Ques>Số nào khác tính c hất với các số còn lại?
+9678 4572 5261 5133 3527 6895 7768</Ques>
+      <Ans1>5261</Ans1>
+      <Ans2>5133</Ans2>
+      <Ans3>6895</Ans3>
+      <Ans4>3527</Ans4>
+      <Answer>3527</Answer>
+  </Question>
+  <Question ID="3">
+    <Ques>Hình nào khác với các hình còn lại?
+Hình bảy cạnh, Hình tam giác, Hình lục giác, Hình lập phương, Hình ngũ giác</Ques>
+    <Ans1>Hình bảy cạnh</Ans1>
+    <Ans2>Hình tam giác</Ans2>
+    <Ans3>Hình lập phương</Ans3>
+    <Ans4>Hình lục giác</Ans4>
+    <Answer>Hình lập phương</Answer>
+  </Question>
+  <Question ID="4">
+      <Ques>Cho dãy số:
+10, 30, 32, 96, 98, 294, 296, ?, ?
+Hãy điền vào chỗ hai dấu hỏi hai số tiếp theo?</Ques>
+      <Ans1>656, 657</Ans1>
+      <Ans2>765, 805</Ans2>
+      <Ans3>878, 940</Ans3>
+      <Ans4>888, 890</Ans4>
+      <Answer>888, 890</Answer>
+  </Question>
+  <Question ID="5">
+    <Ques>Số nào sẽ là số tiếp theo của c huỗi số sau?
+0, 1, 2, 4, 6, 9, 12, 16, ?</Ques>
+    <Ans1>16</Ans1>
+    <Ans2>18</Ans2>
+    <Ans3>20</Ans3>
+    <Ans4>22</Ans4>
+    <Answer>20</Answer>
+  </Question>
+  <Question ID="6">
+      <Ques>Một người đàn ông có 53 chiếc tất trong ngăn kéo của mình: 21 cái màu xanh giống nhau, 15 cái màu đen giống nhau và 17 cái màu đỏ giống nhau. Thật không may bóng đèn trong phòng anh ta bị cháy, phòng thì tối như mực. Anh ta phải lấy ra bao nhiêu chiếc tất để chắc chắn 100% anh ta lấy được một đôi tất màu đen?</Ques>
+      <Ans1>20</Ans1>
+      <Ans2>30</Ans2>
+      <Ans3>40</Ans3>
+      <Ans4>50</Ans4>
+      <Answer>40</Answer>
+  </Question>
+  <Question ID="7">
+    <Ques>Trước 12 giờ trưa là bao nhiêu phút nếu trước đó 9 phút số phút này gấp hai lần số phút sau 10 giờ sáng?</Ques>
+    <Ans1>37</Ans1>
+    <Ans2>38</Ans2>
+    <Ans3>39</Ans3>
+    <Ans4>40</Ans4>
+    <Answer>37</Answer>
+  </Question>
+  <Question ID="8">
+      <Ques>Tìm 5 số liên tiếp của chuỗi dưới đây có tổng bằng 22.
+7 3 9 6 4 1 3 7 9 3 5 4 1 7 6 5</Ques>
+      <Ans1>93541</Ans1>
+      <Ans2>52461</Ans2>
+      <Ans3>96431</Ans3>
+      <Ans4>35267</Ans4>
+      <Answer>93541</Answer>
+  </Question>
+  <Question ID="9">
+    <Ques>Trong 5 con vật sau đây, thì con nào có đặc điểm ít giống nhất với 4 con còn lại
+Mèo - Sư tử - Chó - Rùa - Voi
+</Ques>
+    <Ans1>Mèo</Ans1>
+    <Ans2>Sư Tử</Ans2>
+    <Ans3>Chó</Ans3>
+    <Ans4>Rùa</Ans4>
+    <Answer>Rùa</Answer>
+  </Question>
+  <Question ID="10">
+      <Ques>Bạn hãy sắp xếp các mẫu tự R, G, U, A, I, D, thành tên của :
+Con sông - Hành tinh - Quốc gia - Ðộng vật - Thực vật
+</Ques>
+      <Ans1>Con sông</Ans1>
+      <Ans2>Hành tinh</Ans2>
+      <Ans3>Quốc gia</Ans3>
+      <Ans4>Thực vật</Ans4>
+      <Answer>Hành tinh</Answer>
+  </Question>
+  <Question ID="11">
+    <Ques>Trong 5 loại sau đây, loại nào có đặc tính ít giống với bốn loại còn lại :
+Hành tây - Tỏi - Rau diếp - Nho - Nấm
+</Ques>
+    <Ans1>Hành tây</Ans1>
+    <Ans2>Nho</Ans2>
+    <Ans3>Rau diếp</Ans3>
+    <Ans4>Nấm</Ans4>
+    <Answer>Nho</Answer>
+  </Question>
+  <Question ID="12">
+      <Ques>Năm nay Sơn 4 tuổi, tuổi của anh Sơn gấp ba lần tuổi của Sơn. Vậy khi anh của Sơn bao nhiêu tuổi thì tuổi của anh Sơn chỉ còn gấp đôi tuổi Sơn?</Ques>
+      <Ans1>14</Ans1>
+      <Ans2>16</Ans2>
+      <Ans3>18</Ans3>
+      <Ans4>20</Ans4>
+      <Answer>16</Answer>
+  </Question>
+  <Question ID="13">
+    <Ques>Bạn hãy cho biết nhóm ký tự tiếp theo trong loạt ký tự sau là gì?
+aaaa.bdzb.cgac.dizd.???
+</Ques>
+    <Ans1>enae</Ans1>
+    <Ans2>ekze</Ans2>
+    <Ans3>elxe</Ans3>
+    <Ans4>emae</Ans4>
+    <Answer>emae</Answer>
+  </Question>
+  <Question ID="14">
+      <Ques>Bạn hãy cho biết số tiếp theo trong dãy số sau là số nào?
+2 - 3 - 5 - 8 - 12 - 17 - ???
+</Ques>
+      <Ans1>22</Ans1>
+      <Ans2>23</Ans2>
+      <Ans3>24</Ans3>
+      <Ans4>25</Ans4>
+      <Answer>23</Answer>
+  </Question>
+  <Question ID="15">
+    <Ques>Nếu từ WOLF tương ứng với số 8526, thì từ FLOW tương ứng với số nào sau đây?</Ques>
+    <Ans1>2856</Ans1>
+    <Ans2>6258</Ans2>
+    <Ans3>5862</Ans3>
+    <Ans4>6852</Ans4>
+    <Answer>6258</Answer>
+  </Question>
+  <Question ID="16">
+      <Ques>Số tiếp theo trong dãy số sau đây là số nào?
+15…12…13…10…11…8…???
+</Ques>
+      <Ans1>9</Ans1>
+      <Ans2>6</Ans2>
+      <Ans3>7</Ans3>
+      <Ans4>8</Ans4>
+      <Answer>9</Answer>
+  </Question>
+  <Question ID="17">
+    <Ques>Số tiếp theo trong dãy số sau đây là số nào?
+144...121...100...81...64...???
+</Ques>
+    <Ans1>57</Ans1>
+    <Ans2>49</Ans2>
+    <Ans3>42</Ans3>
+    <Ans4>36</Ans4>
+    <Answer>49</Answer>
+  </Question>
+ <Question ID="18">
+    <Ques>Nếu DIDIIDID tương ứng với số 49499494, thì DIIDIIDD sẽ tương ứng với số nào?</Ques>
+    <Ans1>94494499</Ans1>
+    <Ans2>49949944</Ans2>
+    <Ans3>49499494</Ans3>
+    <Ans4>94944949</Ans4>
+    <Answer>49949944</Answer>
+  </Question>
+   <Question ID="19">
+    <Ques>Nếu bạn sắp xếp lại những ký tự HỘÀNI thành một từ thích hợp, thì từ đó nói lên:
+Con sông - Ngọn núi - Tên thủ đô - Ðộng vật - Thực vật
+</Ques>
+    <Ans1>Con sông</Ans1>
+    <Ans2>Tên thủ đô</Ans2>
+    <Ans3>Ðộng vật</Ans3>
+    <Ans4>Thực vật</Ans4>
+    <Answer>Tên thủ đô</Answer>
+  </Question>
+   <Question ID="20">
+    <Ques>Ký tự tiếp theo trong dãy sau đây là ký tự nào?
+A...C...F...J...O...???
+</Ques>
+    <Ans1>R</Ans1>
+    <Ans2>S</Ans2>
+    <Ans3>T</Ans3>
+    <Ans4>U</Ans4>
+    <Answer>U</Answer>
+  </Question>
+   <Question ID="21">
+    <Ques>Số tiếp theo trong dãy số sau đây là số nào?
+2…4…8…16…32…???
+</Ques>
+    <Ans1>56</Ans1>
+    <Ans2>64</Ans2>
+    <Ans3>72</Ans3>
+    <Ans4>83</Ans4>
+    <Answer>64</Answer>
+  </Question>
+   <Question ID="22">
+    <Ques>Số tiếp theo trong dãy số sau đây là số nào ?
+3…5…10…12…24…26…???
+</Ques>
+    <Ans1>48</Ans1>
+    <Ans2>50</Ans2>
+    <Ans3>52</Ans3>
+    <Ans4>54</Ans4>
+    <Answer>52</Answer>
+  </Question>
+   <Question ID="23">
+    <Ques>Picasso nổi tiếng trong lãnh vực nào ?
+Du lịch - Hội họa - Âm nhạc - Văn học - Thiên văn học
+</Ques>
+    <Ans1>Du lịch</Ans1>
+    <Ans2>Hội họa</Ans2>
+    <Ans3>Âm nhạc</Ans3>
+    <Ans4>Văn học</Ans4>
+    <Answer>Hội họa</Answer>
+  </Question>
+   <Question ID="24">
+    <Ques>Một trong năm từ sau đây thì từ nào có tính chất ít giống nhất với bốn từ còn lại
+	Suy nghĩ - Nói - Viết - Gọi - Ðọc</Ques>
+    <Ans1>Suy nghĩ</Ans1>
+    <Ans2>Nói</Ans2>
+    <Ans3>Viết</Ans3>
+    <Ans4>Gọi</Ans4>
+    <Answer>Suy nghĩ</Answer>
+  </Question>
+   <Question ID="25">
+    <Ques>Một trong năm từ sau đây thì từ nào có tính chất ít giống nhất với bốn từ còn lại
+Jakata - Teheran - Madrid - Havana - Munich
+</Ques>
+    <Ans1>Havana</Ans1>
+    <Ans2>Teheran</Ans2>
+    <Ans3>Madrid</Ans3>
+    <Ans4>Munich</Ans4>
+    <Answer>Havana</Answer>
+  </Question>
+   <Question ID="26">
+    <Ques>Nếu bạn sắp xếp lại những ký tự HAỘNI thành từ thích hợp, thì từ đó nói lên</Ques>
+    <Ans1>Tên một ngọn núi</Ans1>
+    <Ans2>Tên của một con sông</Ans2>
+    <Ans3>Tên của khu phố cổ</Ans3>
+    <Ans4>Tên của một động vật</Ans4>
+    <Answer>Tên của khu phố cổ</Answer>
+  </Question>
+   <Question ID="27">
+    <Ques>Số tiếp theo trong dãy số sau đây là số nào?
+1…2…3…5...8…13…21…34...???
+</Ques>
+    <Ans1>47</Ans1>
+    <Ans2>53</Ans2>
+    <Ans3>55</Ans3>
+    <Ans4>62</Ans4>
+    <Answer>55</Answer>
+  </Question>
+   <Question ID="28">
+    <Ques>Theo bạn có bao nhiêu con gà và bao nhiêu con chó trong bài thơ sau:
+Vừa gà vừa chó,
+Bó lại cho tròn,
+Ba mươi sáu con,
+Một trăm chân chẳn.
+</Ques>
+    <Ans1>12 chó và 24 gà</Ans1>
+    <Ans2>13 chó và 23 gà</Ans2>
+    <Ans3>14 chó và 22 gà</Ans3>
+    <Ans4>15 chó và 21 gà</Ans4>
+    <Answer>14 chó và 22 gà</Answer>
+  </Question>
+   <Question ID="29">
+    <Ques>Trong bài test của Sơn có một số câu hỏi. Sơn đã trả lời sai 10 câu hỏi. Kết quả thang điểm của Sơn chỉ đạt 60%. Vậy trong bài test của Sơn có tất cả bao nhiêu câu hỏi?</Ques>
+    <Ans1>10</Ans1>
+    <Ans2>15</Ans2>
+    <Ans3>20</Ans3>
+    <Ans4>25</Ans4>
+    <Answer>25</Answer>
+  </Question>
+   <Question ID="30">
+    <Ques>Peter là trợ lý của thầy giáo dạy thể dục thể thao. Thầy bảo cậu ta mang cho thầy 16 quả banh từ trong kho ra. Mỗi chuyến Peter chỉ có thể mang tối đa 3 quả. Vậy theo bạn thì Peter cần phải đi mấy chuyến để có thể mang hết những quả banh đó</Ques>
+    <Ans1>4</Ans1>
+    <Ans2>4,5</Ans2>
+    <Ans3>5</Ans3>
+    <Ans4>5,5</Ans4>
+    <Answer>4,5</Answer>
+  </Question>
+   <Question ID="31">
+    <Ques>Số tiếp theo trong dãy số sau đây là số nào?
+32…36…9...12...4…6…???
+</Ques>
+    <Ans1>7</Ans1>
+    <Ans2>3</Ans2>
+    <Ans3>4</Ans3>
+    <Ans4>5</Ans4>
+    <Answer>7</Answer>
+  </Question>
+   <Question ID="32">
+    <Ques>Số tiếp theo trong dãy số sau đây là số nào?
+135…45…180…60…240…80…???
+</Ques>
+    <Ans1>320</Ans1>
+    <Ans2>360</Ans2>
+    <Ans3>400</Ans3>
+    <Ans4>420</Ans4>
+    <Answer>320</Answer>
+  </Question>
+   <Question ID="33">
+    <Ques>Simon thuê một chiếc xe hơi đi từ thành phố lên núi cách đó 100 km để trượt tuyết. Giữa đường, cô đón người bạn Nina, và tiếp tục đi 50 km còn lại với cô này. Lúc về, Simon dừng lại nhà Nina để cho cô xuống , và Simon về nhà một mình. Simon phải trả 50 USD thuê xe và 10 USD tiền xăng. Nếu tính sòng phẳng ra, thì Nina phải trả bao nhiêu tiền?</Ques>
+    <Ans1>15</Ans1>
+    <Ans2>20</Ans2>
+    <Ans3>25</Ans3>
+    <Ans4>30</Ans4>
+    <Answer>25</Answer>
+  </Question>
+   <Question ID="34">
+    <Ques>Nếu từ HANOI tương ứng với số 81459... thì từ HOIAN tương ứng với số mấy?</Ques>
+    <Ans1>84951</Ans1>
+    <Ans2>84519</Ans2>
+    <Ans3>85914</Ans3>
+    <Ans4>85149</Ans4>
+    <Answer>85914</Answer>
+  </Question>
+   <Question ID="35">
+    <Ques>Bạn cho biết quốc gia nào sau đây không thuộc khối ASEAN</Ques>
+    <Ans1>Trung Quốc (China)</Ans1>
+    <Ans2>Việt Nam (Vietnam)</Ans2>
+    <Ans3>Miến Ðiện (Myanmar)</Ans3>
+    <Ans4>Thái Lan (Thailand)</Ans4>
+    <Answer>Trung Quốc (China)</Answer>
+  </Question>
+   <Question ID="36">
+    <Ques>Bạn cho biết ngọn tháp nào sao đây cao nhất thế giới hiện nay?</Ques>
+    <Ans1>Tháp Eiffel của Pháp</Ans1>
+    <Ans2>Tháp đôi Patronas của Malaysia</Ans2>
+    <Ans3>Tháp mới xây của Trung Quốc</Ans3>
+    <Ans4>Tháp nghiêng Pisa của Ý</Ans4>
+    <Answer>Tháp đôi Patronas của Malaysia</Answer>
+  </Question>
+   <Question ID="37">
+    <Ques>Bạn cho biết nước nào sau đây là nước thứ ba trên thế giới phóng thành công tàu vũ trụ có người lái?</Ques>
+    <Ans1>Trung Quốc </Ans1>
+    <Ans2>Hàn Quốc</Ans2>
+    <Ans3>Ấn Độ</Ans3>
+    <Ans4>Pakitan</Ans4>
+    <Answer>Ấn Độ</Answer>
+  </Question>
+   <Question ID="38">
+    <Ques>Bạn cho biết hiện tượng nhật thực xảy ra khi:</Ques>
+    <Ans1>Mặt Trời-Trái Đất-Mặt Trăng, nằm trên một đường thẳng</Ans1>
+    <Ans2>Mặt trời-Mặt Trăng-Trái Đất, nằm trên một đường thẳng</Ans2>
+    <Ans3>Mặt Trăng-Trái Đất-Mặt Trời, nằm trên một đường thẳng</Ans3>
+    <Ans4>Trái Đất-Mặt Trời-Mặt Trăng, nằm trên một đường thẳng</Ans4>
+    <Answer>Mặt trời-Mặt Trăng-Trái Đất, nằm trên một đường thẳng</Answer>
+  </Question>
+   <Question ID="39">
+    <Ques>Mối quan hệ giữa cháu gái với cháu trai thì tương tự như anh em trai với:</Ques>
+    <Ans1>Anh em họ</Ans1>
+    <Ans2>Mẹ</Ans2>
+    <Ans3>Cô</Ans3>
+    <Ans4>Chị em gái</Ans4>
+    <Answer>Chị em gái</Answer>
+  </Question>
+   <Question ID="40">
+    <Ques>Bạn cho biết công thức hoá học của vàng là gì?</Ques>
+    <Ans1>Ag</Ans1>
+    <Ans2>Au</Ans2>
+    <Ans3>Al</Ans3>
+    <Ans4>Ar</Ans4>
+    <Answer>Au</Answer>
+  </Question>
+   <Question ID="41">
+    <Ques>Mối quan hệ giữa ruột đối với ngũ cốc tương tự như bao thư đối với:</Ques>
+    <Ans1>Tem</Ans1>
+    <Ans2>Thư</Ans2>
+    <Ans3>Hộp thư</Ans3>
+    <Ans4>Bưu điện</Ans4>
+    <Answer>Thư</Answer>
+  </Question>
+   <Question ID="42">
+    <Ques>Mối quan hệ giữa đồ móc quần áo đối với tủ đựng quần áo tương tự như cây đối với:</Ques>
+    <Ans1>Nhành cây</Ans1>
+    <Ans2>Lá</Ans2>
+    <Ans3>Rừng</Ans3>
+    <Ans4>Mặt đất</Ans4>
+    <Answer>Rừng</Answer>
+  </Question>
+   <Question ID="43">
+    <Ques>Cái nào sau đây ít giống nhất so với 4 cái còn lại:
+Cười - Cười toe toét - Nhíu mày - Sờ - Coi thường
+</Ques>
+    <Ans1>Cười</Ans1>
+    <Ans2>Nhíu mày</Ans2>
+    <Ans3>Sờ</Ans3>
+    <Ans4>Coi thường</Ans4>
+    <Answer>Coi thường</Answer>
+  </Question>
+   <Question ID="44">
+    <Ques>Gina nhanh hơn Jan, và Nora chậm hơn Gina. Câu nói nào sau đây là đúng nhất?</Ques>
+    <Ans1>Nora nhanh hơn Jan</Ans1>
+    <Ans2>Nora chậm hơn Jan</Ans2>
+    <Ans3>Nora bằng Jan</Ans3>
+    <Ans4>Không thể nói Jan hay Nora, ai hơn ai</Ans4>
+    <Answer>Không thể nói Jan hay Nora, ai hơn ai</Answer>
+  </Question>
+   <Question ID="45">
+    <Ques>Cái nào sau đây ít giống nhất với bốn cái còn lại ?</Ques>
+    <Ans1>Nước trái cây</Ans1>
+    <Ans2>Thịt Bò</Ans2>
+    <Ans3>Trứng </Ans3>
+    <Ans4>Phô mai</Ans4>
+    <Answer>Nước trái cây</Answer>
+  </Question>
+   <Question ID="46">
+    <Ques>Bạn cho biết Copernicus đã nổi tiếng trong lãnh vực nào?</Ques>
+    <Ans1>Du lịch</Ans1>
+    <Ans2>Hội họa</Ans2>
+    <Ans3>Âm nhạc</Ans3>
+    <Ans4>Thiên văn học</Ans4>
+    <Answer>Thiên văn học</Answer>
+  </Question>
+   <Question ID="47">
+    <Ques>Mối quan hệ giữa cây đối với hạt tương tự như người đối với:</Ques>
+    <Ans1>Tinh trùng</Ans1>
+    <Ans2>Buồng trứng</Ans2>
+    <Ans3>Phôi thai</Ans3>
+    <Ans4>Tử cung</Ans4>
+    <Answer>Phôi thai</Answer>
+  </Question>
+   <Question ID="48">
+    <Ques>Có 100 doanh nhân tham dự cuộc họp. 85 người mang theo điện thoại di động, 80 người mang máy nhắn tin, 75 người nói ít nhất 2 thứ tiếng và 70 người mặc veston. Do đó có một số người có tất cả các đặc điểm trên : điện thoại di động VÀ máy nhắn tin VÀ nói ít nhất 2 thứ tiếng VÀ mặc veston. Từ 100 doanh nhân này, có ít nhất bao nhiêu người có đặc điểm trên?</Ques>
+    <Ans1>10</Ans1>
+    <Ans2>15</Ans2>
+    <Ans3>17</Ans3>
+    <Ans4>18</Ans4>
+    <Answer>17</Answer>
+  </Question>
+   <Question ID="49">
+    <Ques>Cái nào sau đây ít giống nhất với 4 cái còn lại ?
+Nước sinh tố pha sữa (Milkshake) - Nước trái cây - Rượu gin - Whiskey - Sữa
+</Ques>
+    <Ans1>Milkshake</Ans1>
+    <Ans2>Nước trái cây</Ans2>
+    <Ans3>Rượu gin</Ans3>
+    <Ans4>Sữa</Ans4>
+    <Answer>Sữa</Answer>
+  </Question>
+   <Question ID="50">
+    <Ques>Cái nào sau đây ít giống với 4 cái còn lại nhất?
+Máy bay - Xe hơi - Xe bus - Tàu hỏa -Tàu hơi nước
+</Ques>
+    <Ans1>Máy bay</Ans1>
+    <Ans2>Xe hơi</Ans2>
+    <Ans3>Tàu hỏa</Ans3>
+    <Ans4>Tàu hơi nước</Ans4>
+    <Answer>Máy bay</Answer>
+  </Question>
+   <Question ID="51">
+    <Ques>Mối quan hệ giữa chiếc xe với xăng giống như máy làm café với?</Ques>
+    <Ans1>Cafe</Ans1>
+    <Ans2>Điện</Ans2>
+    <Ans3>Quầy bar</Ans3>
+    <Ans4>Đồ chườm nóng </Ans4>
+    <Answer>Cafe</Answer>
+  </Question>
+   <Question ID="52">
+    <Ques>Igor vừa đạt thứ hạng cao nhất và thứ hạng thấp nhất là 15 trong một cuộc thi vô địch tennis. Theo bạn có bao nhiêu người tham gia cuộc thi này?</Ques>
+    <Ans1>27</Ans1>
+    <Ans2>28</Ans2>
+    <Ans3>29</Ans3>
+    <Ans4>30</Ans4>
+    <Answer>29</Answer>
+  </Question>
+   <Question ID="53">
+    <Ques>Con nào sau đây ít giống với 4 con còn lại nhất?
+Ngựa - Ngựa vằn - Nai - Nai rừng - Linh dương
+</Ques>
+    <Ans1>Ngựa</Ans1>
+    <Ans2>Ngựa vằn</Ans2>
+    <Ans3>Nai</Ans3>
+    <Ans4>Nai rừng</Ans4>
+    <Answer>Ngựa vằn</Answer>
+  </Question>
+   <Question ID="54">
+    <Ques>Mối quan hệ giữa giấy đối với gỗ giống như búa đối với :</Ques>
+    <Ans1>Len</Ans1>
+    <Ans2>Kính</Ans2>
+    <Ans3>Nước</Ans3>
+    <Ans4>Sắt</Ans4>
+    <Answer>Sắt</Answer>
+  </Question>
+   <Question ID="55">
+    <Ques>Con nào sau đây ít giống với 4 con còn lại nhất?
+Con hàu - Con rùa - Con cua - Con sên - Kỳ nhông
+</Ques>
+    <Ans1>Con hàu</Ans1>
+    <Ans2>Con sên</Ans2>
+    <Ans3>Kỳ nhông</Ans3>
+    <Ans4>Con cua</Ans4>
+    <Answer>Kỳ nhông</Answer>
+  </Question>
+   <Question ID="56">
+    <Ques>Khái niệm nào trong 5 khái niệm sau đây có thể so với khái niệm dũng cảm, như khái niệm yêu so với ghét? </Ques>
+    <Ans1>Can đảm</Ans1>
+    <Ans2>An toàn</Ans2>
+    <Ans3>Hèn nhát</Ans3>
+    <Ans4>Giận dữ</Ans4>
+    <Answer>Hèn nhát</Answer>
+  </Question>
+   <Question ID="57">
+    <Ques>Theo bạn thì ngôn ngữ nào được nhiều người sử dụng nhất trên thế giới? </Ques>
+    <Ans1>Tiếng anh</Ans1>
+    <Ans2>Tiếng pháp</Ans2>
+    <Ans3>Tiếng hoa</Ans3>
+    <Ans4>Tiếng ấn độ</Ans4>
+    <Answer>Tiếng hoa</Answer>
+  </Question>
+   <Question ID="58">
+    <Ques>Ký hiệu nào sau đây ít giống với 4 ký hiệu còn lại?</Ques>
+    <Ans1>A</Ans1>
+    <Ans2>V</Ans2>
+    <Ans3>N</Ans3>
+    <Ans4>H</Ans4>
+    <Answer>V</Answer>
+  </Question>
+   <Question ID="59">
+    <Ques>Từ nào viết đúng chính tả</Ques>
+    <Ans1>Chấp hành</Ans1>
+    <Ans2>Chắp hành</Ans2>
+    <Ans3>Trấp hành</Ans3>
+    <Ans4>Trắp hành</Ans4>
+    <Answer>Chấp hành</Answer>
+  </Question>
+   <Question ID="60">
+    <Ques>Bạn cho biết quốc gia nào sau đây không thuộc khối EU</Ques>
+    <Ans1>Anh</Ans1>
+    <Ans2>Pháp</Ans2>
+    <Ans3>Mỹ</Ans3>
+    <Ans4>Ý</Ans4>
+    <Answer>Mỹ</Answer>
+  </Question>
+</Questions>
